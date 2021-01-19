@@ -1,0 +1,21 @@
+body {
+  background: linear-gradient(90deg, #cfd9df 0%, #e2ebf0 100%);
+}
+
+.container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.pad-bank {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 10px;
+  /* margin-top: 30px; */
+}
+
+.drum-pad {
+  width: auto;
+  height: 80px;
+  margin: 10px;
+}
